@@ -1,0 +1,12 @@
+.component{
+    font-family: 'Fira Sans';
+    font-size: 15vw;
+}
+
+.text-bg{
+    background-color: #689775;
+}
+
+.text-fg{
+    color: #0e2c18;
+}
