@@ -10,3 +10,7 @@
 .text-fg{
     color: #0e2c18;
 }
+
+.component-container {
+    background-color: rgba(173,129,122,0.5) !important;
+}
